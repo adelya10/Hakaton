@@ -1,0 +1,26 @@
+@media all and (max-width: 768px) {
+  .cont_left_side {
+    padding: 8px;
+  }
+  .about_p {
+    font-size: 80%;
+  }
+}
+@media all and (max-width: 500px) {
+  .img_me {
+    width: 82%;
+    margin: 20px;
+  }
+  .portfolioText {
+    align-items: flex-start;
+  }
+  .cont_title {
+    font-size: 100%;
+  }
+  .container .cont_left_side {
+    padding: 0;
+  }
+  .about_p {
+    font-size: 50%;
+  }
+}
